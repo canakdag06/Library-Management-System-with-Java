@@ -1,6 +1,7 @@
 # Library-Management-System-with-Java
-Bu projeyi BMT-311 Veritabanı Yönetim Sistemleri dersinin dönem ödevi için hazırladım.
-I've prepared this project for BMT-311 Database Management Systems lecture and I've got help from a youtube tutorial: https://www.youtube.com/playlist?list=PLjrrZBv_CFYQgCFsHTzfIqtypsWF2KBvJ
+Bu projeyi BMT-311 Veritabanı Yönetim Sistemleri dersinin dönem ödevi için hazırladım.  
+I've prepared this project for BMT-311 Database Management Systems lecture  
+and I've got help from a youtube tutorial: https://www.youtube.com/playlist?list=PLjrrZBv_CFYQgCFsHTzfIqtypsWF2KBvJ
 
 KAVRAMSAL TASARIM (CONCEPTUAL DESIGN)
 ![image](https://user-images.githubusercontent.com/77192206/211918441-61d59f9d-6e86-485d-abc6-98352d8b6257.png)
